@@ -1,0 +1,1221 @@
+{
+    "status": "OK",
+    "num_results": 20,
+    "results": [
+      {
+        "uri": "nyt://article/45e83d89-be71-594e-9960-8f9c5d2f6db5",
+        "url": "https://www.nytimes.com/2023/01/12/arts/music/lisa-marie-presley-dead.html",
+        "id": 100000008725794,
+        "asset_id": 100000008725794,
+        "source": "New York Times",
+        "published_date": "2023-01-12",
+        "updated": "2023-01-14 16:40:27",
+        "section": "Arts",
+        "subsection": "Music",
+        "nytdsection": "arts",
+        "adx_keywords": "Deaths (Obituaries);Pop and Rock Music;Presley, Lisa Marie;Presley, Elvis;Presley, Priscilla;Jackson, Michael",
+        "column": null,
+        "byline": "By Eduardo Medina, April Rubin and Neil Genzlinger",
+        "type": "Article",
+        "title": "Lisa Marie Presley, Singer-Songwriter and Daughter of Elvis, Dies at 54",
+        "abstract": "Her death in Los Angeles on Thursday, after a life tinged with tragedy, came after a medical emergency and brief hospitalization.",
+        "des_facet": [
+          "Deaths (Obituaries)",
+          "Pop and Rock Music"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Presley, Lisa Marie",
+          "Presley, Elvis",
+          "Presley, Priscilla",
+          "Jackson, Michael"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Lisa Marie Presley in performance in Chicago in 2012. On her albums, she set out to establish a sound of her own while also paying homage to her father. ",
+            "copyright": "Barry Brecheisen/Invision, via Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/14/multimedia/12xp-lisapresley-kljt-print1-SUB2/12xp-lisapresley-kljt-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/14/multimedia/12xp-lisapresley-kljt-print1-SUB2/12xp-lisapresley-kljt-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/14/multimedia/12xp-lisapresley-kljt-print1-SUB2/12xp-lisapresley-kljt-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/ad9986a0-a12d-5f02-9333-fad1329f2eb5",
+        "url": "https://www.nytimes.com/2023/01/19/arts/rust-shooting-charges-alec-baldwin.html",
+        "id": 100000008611013,
+        "asset_id": 100000008611013,
+        "source": "New York Times",
+        "published_date": "2023-01-19",
+        "updated": "2023-01-20 09:06:03",
+        "section": "Arts",
+        "subsection": "",
+        "nytdsection": "arts",
+        "adx_keywords": "Movies;Murders, Attempted Murders and Homicides;Firearms;Accidents and Safety;Baldwin, Alec;Gutierrez-Reed, Hannah;Hutchins, Halyna (1979-2021);Souza, Joel (1973- );Halls, Dave;Santa Fe (NM)",
+        "column": null,
+        "byline": "By Julia Jacobs and Graham Bowley",
+        "type": "Article",
+        "title": "Alec Baldwin Will Be Charged With Involuntary Manslaughter in ‘Rust’ Killing",
+        "abstract": "A gun that Mr. Baldwin was rehearsing with went off, killing the film’s cinematographer. The armorer responsible for weapons on set also faces manslaughter charges.",
+        "des_facet": [
+          "Movies",
+          "Murders, Attempted Murders and Homicides",
+          "Firearms",
+          "Accidents and Safety"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Baldwin, Alec",
+          "Gutierrez-Reed, Hannah",
+          "Hutchins, Halyna (1979-2021)",
+          "Souza, Joel (1973- )",
+          "Halls, Dave"
+        ],
+        "geo_facet": [
+          "Santa Fe (NM)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Pool photo by Alex Tabak",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19rust-updates-promo/19rust-fhtz-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19rust-updates-promo/19rust-fhtz-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19rust-updates-promo/19rust-fhtz-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/727ee9bd-913b-5c20-9b9d-a3389e14e964",
+        "url": "https://www.nytimes.com/2023/01/13/us/idaho-murders-bryan-kohberger.html",
+        "id": 100000008725399,
+        "asset_id": 100000008725399,
+        "source": "New York Times",
+        "published_date": "2023-01-13",
+        "updated": "2023-01-14 09:36:23",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Content Type: Personal Profile;Murders, Attempted Murders and Homicides;Colleges and Universities;Kohberger, Bryan C;Chapin, Ethan (d 2022);Goncalves, Kaylee (d 2022);Kernodle, Xana (d 2022);Mogen, Madison (d 2022);University of Idaho;Moscow (Idaho)",
+        "column": null,
+        "byline": "By Mike Baker and Nicholas Bogel-Burroughs",
+        "type": "Article",
+        "title": "Idaho Murders Suspect Felt ‘No Emotion’ and ‘Little Remorse’ as a Teen",
+        "abstract": "Messages and online posts from the Ph.D. student now charged with four murders show that he was once detached and suicidal before he became fascinated with criminals’ minds.",
+        "des_facet": [
+          "Content Type: Personal Profile",
+          "Murders, Attempted Murders and Homicides",
+          "Colleges and Universities"
+        ],
+        "org_facet": [
+          "University of Idaho"
+        ],
+        "per_facet": [
+          "Kohberger, Bryan C",
+          "Chapin, Ethan (d 2022)",
+          "Goncalves, Kaylee (d 2022)",
+          "Kernodle, Xana (d 2022)",
+          "Mogen, Madison (d 2022)"
+        ],
+        "geo_facet": [
+          "Moscow (Idaho)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Friends and community members celebrated the University of Idaho student victims’ lives during a candlelight vigil in Coeur d’Alene, Idaho, in November.",
+            "copyright": "Rajah Bose for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/12/multimedia/12nat-idaho-killings-bwqc/12nat-idaho-killings-bwqc-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/12/multimedia/12nat-idaho-killings-bwqc/12nat-idaho-killings-bwqc-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/12/multimedia/12nat-idaho-killings-bwqc/12nat-idaho-killings-bwqc-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/c9b6b49a-7460-5cc3-8bbd-5d94e258f674",
+        "url": "https://www.nytimes.com/2023/01/16/technology/chatgpt-artificial-intelligence-universities.html",
+        "id": 100000008723403,
+        "asset_id": 100000008723403,
+        "source": "New York Times",
+        "published_date": "2023-01-16",
+        "updated": "2023-01-18 11:13:25",
+        "section": "Technology",
+        "subsection": "",
+        "nytdsection": "technology",
+        "adx_keywords": "Colleges and Universities;Artificial Intelligence;Computers and the Internet;Plagiarism;Grading of Students;Innovation;internal-sub-only;OpenAI Labs;Northern Michigan University;George Washington University",
+        "column": null,
+        "byline": "By Kalley Huang",
+        "type": "Article",
+        "title": "Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach",
+        "abstract": "With the rise of the popular new chatbot ChatGPT, colleges are restructuring some courses and taking preventive measures.",
+        "des_facet": [
+          "Colleges and Universities",
+          "Artificial Intelligence",
+          "Computers and the Internet",
+          "Plagiarism",
+          "Grading of Students",
+          "Innovation",
+          "internal-sub-only"
+        ],
+        "org_facet": [
+          "OpenAI Labs",
+          "Northern Michigan University",
+          "George Washington University"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Steve Legato for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/00ai-colleges-03-pkfb/00ai-colleges-03-pkfb-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/00ai-colleges-03-pkfb/00ai-colleges-03-pkfb-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/00ai-colleges-03-pkfb/00ai-colleges-03-pkfb-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/a5b2c062-3751-5919-8899-5f9b7b97813a",
+        "url": "https://www.nytimes.com/2023/01/13/well/mind/alcohol-health-effects.html",
+        "id": 100000008717850,
+        "asset_id": 100000008717850,
+        "source": "New York Times",
+        "published_date": "2023-01-13",
+        "updated": "2023-01-20 06:50:22",
+        "section": "Well",
+        "subsection": "Mind",
+        "nytdsection": "well",
+        "adx_keywords": "Alcoholic Beverages;Alcohol Abuse;Liver;Heart;Cancer;Blood Pressure;Research;Content Type: Service;internal-sub-only",
+        "column": null,
+        "byline": "By Dana G. Smith",
+        "type": "Article",
+        "title": "Even a Little Alcohol Can Harm Your Health",
+        "abstract": "Recent research makes it clear that any amount of drinking can be detrimental. Here’s why you may want to cut down on your consumption beyond Dry January.",
+        "des_facet": [
+          "Alcoholic Beverages",
+          "Alcohol Abuse",
+          "Liver",
+          "Heart",
+          "Cancer",
+          "Blood Pressure",
+          "Research",
+          "Content Type: Service",
+          "internal-sub-only"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Francesco Ciccolella",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/well/13Well-Alcohol/13Well-Alcohol-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/well/13Well-Alcohol/13Well-Alcohol-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/well/13Well-Alcohol/13Well-Alcohol-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/7fa4fa58-89d9-5b88-925f-91b514900d3b",
+        "url": "https://www.nytimes.com/2023/01/15/arts/design/martin-luther-king-jr-statue-boston-common.html",
+        "id": 100000008727498,
+        "asset_id": 100000008727498,
+        "source": "New York Times",
+        "published_date": "2023-01-15",
+        "updated": "2023-01-17 12:34:34",
+        "section": "Arts",
+        "subsection": "Art & Design",
+        "nytdsection": "arts",
+        "adx_keywords": "Art;Sculpture;Monuments and Memorials (Structures);Civil Rights Movement (1954-68);Black People;King, Martin Luther Jr;King, Coretta Scott;Thomas, Hank Willis;MASS Design Group;Boston Common;Boston (Mass)",
+        "column": null,
+        "byline": "By Kalia Richardson",
+        "type": "Article",
+        "title": "In Boston, ‘The Embrace’ Honors Dr. Martin Luther King Jr.’s Legacy",
+        "abstract": "The bronze sculpture, by the artist Hank Willis Thomas, symbolizes the hug Dr. King and Coretta Scott King shared after Dr. King won the 1964 Nobel Peace Prize.",
+        "des_facet": [
+          "Art",
+          "Sculpture",
+          "Monuments and Memorials (Structures)",
+          "Civil Rights Movement (1954-68)",
+          "Black People"
+        ],
+        "org_facet": [
+          "MASS Design Group"
+        ],
+        "per_facet": [
+          "King, Martin Luther Jr",
+          "King, Coretta Scott",
+          "Thomas, Hank Willis"
+        ],
+        "geo_facet": [
+          "Boston Common",
+          "Boston (Mass)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "SKANSKA",
+            "approved_for_syndication": 0,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/15mlksculpture-02-cwgz/15mlksculpture-02-cwgz-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/15mlksculpture-02-cwgz/15mlksculpture-02-cwgz-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/15mlksculpture-02-cwgz/15mlksculpture-02-cwgz-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/d585b0cd-7b99-540c-a09d-e276ad43b224",
+        "url": "https://www.nytimes.com/2023/01/13/nyregion/george-santos-republicans-lies.html",
+        "id": 100000008716606,
+        "asset_id": 100000008716606,
+        "source": "New York Times",
+        "published_date": "2023-01-13",
+        "updated": "2023-01-14 23:53:38",
+        "section": "New York",
+        "subsection": "",
+        "nytdsection": "new york",
+        "adx_keywords": "Ethics and Official Misconduct;Elections, House of Representatives;Content Type: Personal Profile;United States Politics and Government;Santos, George (1988- );Republican Party;House of Representatives;National Republican Congressional Committee;Congressional Leadership Fund;New York State",
+        "column": null,
+        "byline": "By Nicholas Fandos",
+        "type": "Article",
+        "title": "Santos’s Lies Were Known to Some Well-Connected Republicans",
+        "abstract": "George Santos inspired no shortage of suspicion during his 2022 campaign, including in the upper echelons of his own party, yet many Republicans looked the other way.",
+        "des_facet": [
+          "Ethics and Official Misconduct",
+          "Elections, House of Representatives",
+          "Content Type: Personal Profile",
+          "United States Politics and Government"
+        ],
+        "org_facet": [
+          "Republican Party",
+          "House of Representatives",
+          "National Republican Congressional Committee",
+          "Congressional Leadership Fund"
+        ],
+        "per_facet": [
+          "Santos, George (1988- )"
+        ],
+        "geo_facet": [
+          "New York State"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Representative George Santos ignored advice that he drop out of the 2022 House race because of issues uncovered in a routine background check.",
+            "copyright": "Haiyun Jiang/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/nyregion/00santos-vetting/00santos-vetting-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/nyregion/00santos-vetting/00santos-vetting-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/nyregion/00santos-vetting/00santos-vetting-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/df4ec0d5-c609-5ecd-9215-ba1012330060",
+        "url": "https://www.nytimes.com/2023/01/14/us/mega-millions-jackpot-winner.html",
+        "id": 100000008720889,
+        "asset_id": 100000008720889,
+        "source": "New York Times",
+        "published_date": "2023-01-14",
+        "updated": "2023-01-18 04:42:03",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Lotteries;Maine",
+        "column": null,
+        "byline": "By Jesus Jiménez",
+        "type": "Article",
+        "title": "Someone in Maine Won the $1.35 Billion Mega Millions Jackpot",
+        "abstract": "The lucky player has not yet been identified, and Maine allows winners to remain anonymous. Big jackpots are becoming more common in the multistate lotteries.",
+        "des_facet": [
+          "Lotteries"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Maine"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The single winning ticket for the Mega Millions drawing on Friday was sold at the Hometown Gas & Grill in Lebanon, Maine, lottery officials said.",
+            "copyright": "Amanda Sabga/Reuters",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/02/14/multimedia/14xp-lotterywinner-fzwp/14xp-lotterywinner-fzwp-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/02/14/multimedia/14xp-lotterywinner-fzwp/14xp-lotterywinner-fzwp-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/02/14/multimedia/14xp-lotterywinner-fzwp/14xp-lotterywinner-fzwp-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/8b963cb0-f867-55b6-9f12-8ce550921bda",
+        "url": "https://www.nytimes.com/2023/01/16/business/china-birth-rate.html",
+        "id": 100000008729013,
+        "asset_id": 100000008729013,
+        "source": "New York Times",
+        "published_date": "2023-01-16",
+        "updated": "2023-01-17 23:33:33",
+        "section": "Business",
+        "subsection": "",
+        "nytdsection": "business",
+        "adx_keywords": "Population;Birth Rates;Deaths (Fatalities);Coronavirus (2019-nCoV);Economic Conditions and Trends;Communist Party of China;China",
+        "column": null,
+        "byline": "By Alexandra Stevenson and Zixu Wang",
+        "type": "Article",
+        "title": "China’s Population Falls, Heralding a Demographic Crisis",
+        "abstract": "Deaths outnumbered births last year for the first time in six decades. Experts see major implications for China, its economy and the world.",
+        "des_facet": [
+          "Population",
+          "Birth Rates",
+          "Deaths (Fatalities)",
+          "Coronavirus (2019-nCoV)",
+          "Economic Conditions and Trends"
+        ],
+        "org_facet": [
+          "Communist Party of China"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "China"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Qilai Shen for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17china-population-mktl-hppromo/17china-population-mktl-hppromo-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17china-population-mktl-hppromo/17china-population-mktl-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17china-population-mktl-hppromo/17china-population-mktl-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/dfdbcddf-1209-5a1a-a575-e53f44315203",
+        "url": "https://www.nytimes.com/2023/01/14/us/biden-classified-documents-delaware.html",
+        "id": 100000008727919,
+        "asset_id": 100000008727919,
+        "source": "New York Times",
+        "published_date": "2023-01-14",
+        "updated": "2023-01-15 13:45:00",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Classified Information and State Secrets;Archives and Records;United States Politics and Government;Special Prosecutors (Independent Counsel);Biden, Joseph R Jr;National Archives and Records Administration;Justice Department",
+        "column": null,
+        "byline": "By Charlie Savage",
+        "type": "Article",
+        "title": "Additional Documents Found at Biden’s Wilmington Home, White House Says",
+        "abstract": "The revelation came as the White House defended its public statements about the extent of the documents that remained in Mr. Biden’s possession.",
+        "des_facet": [
+          "Classified Information and State Secrets",
+          "Archives and Records",
+          "United States Politics and Government",
+          "Special Prosecutors (Independent Counsel)"
+        ],
+        "org_facet": [
+          "National Archives and Records Administration",
+          "Justice Department"
+        ],
+        "per_facet": [
+          "Biden, Joseph R Jr"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The access road to President Biden’s home in Wilmington, Del., on Friday. The White House revealed that more pages with classified information were found in the garage of that home this week.",
+            "copyright": "Oliver Contreras for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/14/multimedia/14dc-investigate-1-vtbh/14dc-investigate-1-vtbh-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/14/multimedia/14dc-investigate-1-vtbh/14dc-investigate-1-vtbh-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/14/multimedia/14dc-investigate-1-vtbh/14dc-investigate-1-vtbh-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/c824f912-9775-52dc-a46d-e195c6c76fc5",
+        "url": "https://www.nytimes.com/2023/01/16/us/arizona-water-rio-verde-scottsdale.html",
+        "id": 100000008724179,
+        "asset_id": 100000008724179,
+        "source": "New York Times",
+        "published_date": "2023-01-16",
+        "updated": "2023-01-17 10:25:19",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Water;Real Estate and Housing (Residential);Drought;Suits and Litigation (Civil);Conservation of Resources;Shortages;Sustainable Living;Arizona;Scottsdale (Ariz);Rio Verde (Ariz)",
+        "column": null,
+        "byline": "By Jack Healy",
+        "type": "Article",
+        "title": "Skipped Showers, Paper Plates: An Arizona Suburb’s Water Is Cut Off",
+        "abstract": "Hundreds of homes outside the boundaries of Scottsdale can no longer get water from the city, so their owners are living a worst-case scenario of drought in the West.",
+        "des_facet": [
+          "Water",
+          "Real Estate and Housing (Residential)",
+          "Drought",
+          "Suits and Litigation (Civil)",
+          "Conservation of Resources",
+          "Shortages",
+          "Sustainable Living"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Arizona",
+          "Scottsdale (Ariz)",
+          "Rio Verde (Ariz)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A water hauler set up hoses to fill the tank for a home that is listed for sale in Rio Verde Foothills outside of Scottsdale, Ariz. Water prices have tripled for some residents of the unincorporated neighborhood.",
+            "copyright": "Erin Schaff/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/12/multimedia/00NAT-AZ-WATER-1/00NAT-AZ-WATER-1-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/12/multimedia/00NAT-AZ-WATER-1/00NAT-AZ-WATER-1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/12/multimedia/00NAT-AZ-WATER-1/00NAT-AZ-WATER-1-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/1bde4d88-7247-5cf2-9538-b3e9d75fa187",
+        "url": "https://www.nytimes.com/2023/01/17/well/eat/coffee-empty-stomach.html",
+        "id": 100000008696547,
+        "asset_id": 100000008696547,
+        "source": "New York Times",
+        "published_date": "2023-01-17",
+        "updated": "2023-01-18 15:39:48",
+        "section": "Well",
+        "subsection": "Eat",
+        "nytdsection": "well",
+        "adx_keywords": "Coffee;Content Type: Service;Stomach;Digestive Tract;Gastroesophageal Reflux (Acid Reflux);internal-sub-only",
+        "column": null,
+        "byline": "By Trisha Pasricha",
+        "type": "Article",
+        "title": "Is It Bad to Drink Coffee on an Empty Stomach?",
+        "abstract": "Your gut is adaptable, experts say, but there are a few facts you should keep in mind.",
+        "des_facet": [
+          "Coffee",
+          "Content Type: Service",
+          "Stomach",
+          "Digestive Tract",
+          "Gastroesophageal Reflux (Acid Reflux)",
+          "internal-sub-only"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Joyce Lee for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17ASKWELL-COFFEE-STOMACH2-mkqt/17ASKWELL-COFFEE-STOMACH2-mkqt-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17ASKWELL-COFFEE-STOMACH2-mkqt/17ASKWELL-COFFEE-STOMACH2-mkqt-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17ASKWELL-COFFEE-STOMACH2-mkqt/17ASKWELL-COFFEE-STOMACH2-mkqt-mediumThreeByTwo440-v3.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/1b296230-dcee-59ee-a606-98f059beda62",
+        "url": "https://www.nytimes.com/2023/01/19/arts/music/david-crosby-dead.html",
+        "id": 100000006733287,
+        "asset_id": 100000006733287,
+        "source": "New York Times",
+        "published_date": "2023-01-19",
+        "updated": "2023-01-20 15:43:47",
+        "section": "Arts",
+        "subsection": "Music",
+        "nytdsection": "arts",
+        "adx_keywords": "Deaths (Obituaries);Pop and Rock Music;Music;Drug Abuse and Traffic;Nineteen Hundred Sixties;Crosby, David;Byrds, The;Crosby, Stills, Nash & Young",
+        "column": null,
+        "byline": "By Jim Farber",
+        "type": "Article",
+        "title": "David Crosby, Folk-Rock Voice of the 1960s Whose Influence Spanned Decades, Dies at 81",
+        "abstract": "He was an original member of the Byrds and a founder of Crosby, Stills & Nash. But he was almost as well known for his troubled personal life as for his music.",
+        "des_facet": [
+          "Deaths (Obituaries)",
+          "Pop and Rock Music",
+          "Music",
+          "Drug Abuse and Traffic",
+          "Nineteen Hundred Sixties"
+        ],
+        "org_facet": [
+          "Byrds, The",
+          "Crosby, Stills, Nash & Young"
+        ],
+        "per_facet": [
+          "Crosby, David"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "David Crosby in 1976. He was inducted twice into the Rock & Roll Hall of Fame, as a founding member of the Byrds and Crosby, Stills, Nash & Young.",
+            "copyright": "Gijsbert Hanekroot/Redferns, via Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/20/obituaries/00crosby_david/00crosby_david-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/20/obituaries/00crosby_david/00crosby_david-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/20/obituaries/00crosby_david/00crosby_david-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/11dfd826-d181-5566-af90-88aea902ef59",
+        "url": "https://www.nytimes.com/2023/01/13/us/robbie-knievel-dead.html",
+        "id": 100000008726588,
+        "asset_id": 100000008726588,
+        "source": "New York Times",
+        "published_date": "2023-01-13",
+        "updated": "2023-01-16 23:32:07",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Deaths (Obituaries);Motorcycles, Motor Bikes and Motorscooters;Stunts and Stuntmen;Knievel, Robbie;Knievel, Evel",
+        "column": null,
+        "byline": "By Michael Levenson",
+        "type": "Article",
+        "title": "Robbie Knievel, a Motorcycle Daredevil Like His Father, Dies at 60",
+        "abstract": "He followed his father, Evel Knievel, into the high-flying world of motorcycle stunts, jumping the Grand Canyon and the fountains at Caesars Palace.",
+        "des_facet": [
+          "Deaths (Obituaries)",
+          "Motorcycles, Motor Bikes and Motorscooters",
+          "Stunts and Stuntmen"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Knievel, Robbie",
+          "Knievel, Evel"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“I do it for the excitement, and the quick money,” the motorcycle stuntman Robbie Knievel once said of his performances.",
+            "copyright": "Zak Hussein/PA Images, via Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/13xp-knievel1-print1/13xp-knievel1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/13xp-knievel1-print1/13xp-knievel1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/17/multimedia/13xp-knievel1-print1/13xp-knievel1-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/38d675a7-f362-51de-9c23-2d501b99234f",
+        "url": "https://www.nytimes.com/2023/01/13/style/kate-middleton.html",
+        "id": 100000008725180,
+        "asset_id": 100000008725180,
+        "source": "New York Times",
+        "published_date": "2023-01-13",
+        "updated": "2023-01-18 20:16:52",
+        "section": "Style",
+        "subsection": "",
+        "nytdsection": "style",
+        "adx_keywords": "internal-sub-only;Royal Families;Content Type: Personal Profile;Catherine, Duchess of Cambridge;Great Britain",
+        "column": null,
+        "byline": "By Rhonda Garelick",
+        "type": "Article",
+        "title": "The State of Kate",
+        "abstract": "Catherine, Princess of Wales, seems to live in a state of perpetual waiting. What does that do to a woman?",
+        "des_facet": [
+          "internal-sub-only",
+          "Royal Families",
+          "Content Type: Personal Profile"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Catherine, Duchess of Cambridge"
+        ],
+        "geo_facet": [
+          "Great Britain"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "With the death of Queen Elizabeth and Prince Charles’s ascension to the throne, Kate enters yet another stage of public waiting.",
+            "copyright": "Tolga Akmen/EPA, via Shutterstock",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/19/multimedia/13KATE-WAIT-01-qhpv/13KATE-WAIT-01-qhpv-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/19/multimedia/13KATE-WAIT-01-qhpv/13KATE-WAIT-01-qhpv-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/19/multimedia/13KATE-WAIT-01-qhpv/13KATE-WAIT-01-qhpv-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/6f0097c9-0cd0-54dd-8aeb-7a13906770a1",
+        "url": "https://www.nytimes.com/2023/01/18/world/asia/jacinda-ardern-new-zealand.html",
+        "id": 100000008733001,
+        "asset_id": 100000008733001,
+        "source": "New York Times",
+        "published_date": "2023-01-18",
+        "updated": "2023-01-19 01:10:40",
+        "section": "World",
+        "subsection": "Asia Pacific",
+        "nytdsection": "world",
+        "adx_keywords": "Appointments and Executive Changes;Ardern, Jacinda;New Zealand",
+        "column": null,
+        "byline": "By Natasha Frost",
+        "type": "Article",
+        "title": "Jacinda Ardern, New Zealand’s Leader, Says She Will Step Down",
+        "abstract": "Ms. Ardern, a global liberal icon who has faced rising political headwinds at home, will leave office by Feb. 7, she said.",
+        "des_facet": [
+          "Appointments and Executive Changes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Ardern, Jacinda"
+        ],
+        "geo_facet": [
+          "New Zealand"
+        ],
+        "media": [],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/54914321-093f-5779-ad45-58721294b57d",
+        "url": "https://www.nytimes.com/2023/01/18/us/politics/ukraine-crimea-military.html",
+        "id": 100000008725188,
+        "asset_id": 100000008725188,
+        "source": "New York Times",
+        "published_date": "2023-01-18",
+        "updated": "2023-01-19 08:59:05",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);United States International Relations;Defense and Military Forces;Arms Trade;Foreign Aid;North Atlantic Treaty Organization;Crimea (Ukraine);Ukraine;Russia",
+        "column": null,
+        "byline": "By Helene Cooper, Eric Schmitt and Julian E. Barnes",
+        "type": "Article",
+        "title": "U.S. Warms to Helping Ukraine Target Crimea",
+        "abstract": "The Biden administration is considering the argument that Kyiv needs the power to strike at the Ukrainian peninsula annexed by Russia in 2014.",
+        "des_facet": [
+          "Russian Invasion of Ukraine (2022)",
+          "United States International Relations",
+          "Defense and Military Forces",
+          "Arms Trade",
+          "Foreign Aid"
+        ],
+        "org_facet": [
+          "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Crimea (Ukraine)",
+          "Ukraine",
+          "Russia"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Crimea is home to tens of thousands of Russian troops and numerous Russian military bases.",
+            "copyright": "Agence France-Presse — Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18dc-military-crimea-02-lqzt/18dc-military-crimea-02-lqzt-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18dc-military-crimea-02-lqzt/18dc-military-crimea-02-lqzt-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18dc-military-crimea-02-lqzt/18dc-military-crimea-02-lqzt-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/90e96f5c-78aa-5278-b75d-7efb01bbe45b",
+        "url": "https://www.nytimes.com/2023/01/13/business/tesla-price-cut.html",
+        "id": 100000008726265,
+        "asset_id": 100000008726265,
+        "source": "New York Times",
+        "published_date": "2023-01-13",
+        "updated": "2023-01-14 13:24:28",
+        "section": "Business",
+        "subsection": "",
+        "nytdsection": "business",
+        "adx_keywords": "Electric and Hybrid Vehicles;Prices (Fares, Fees and Rates);Automobiles;Company Reports;Stocks and Bonds;Tesla Motors Inc",
+        "column": null,
+        "byline": "By Neal E. Boudette",
+        "type": "Article",
+        "title": "Tesla Cuts Prices Sharply as It Moves to Bolster Demand",
+        "abstract": "The price reductions in the United States will make more of the company’s electric vehicles eligible for a federal tax credit.",
+        "des_facet": [
+          "Electric and Hybrid Vehicles",
+          "Prices (Fares, Fees and Rates)",
+          "Automobiles",
+          "Company Reports",
+          "Stocks and Bonds"
+        ],
+        "org_facet": [
+          "Tesla Motors Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tesla’s Model 3 Performance compact is selling for just under $54,000, down from $63,000.",
+            "copyright": "David Zalubowsk/Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/business/13tesla-1/13tesla-1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/business/13tesla-1/13tesla-1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/13/business/13tesla-1/13tesla-1-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/01ca709d-a7ad-5eae-82f4-5c09b79513c8",
+        "url": "https://www.nytimes.com/2023/01/18/business/microsoft-layoffs.html",
+        "id": 100000008731226,
+        "asset_id": 100000008731226,
+        "source": "New York Times",
+        "published_date": "2023-01-18",
+        "updated": "2023-01-19 11:51:11",
+        "section": "Business",
+        "subsection": "",
+        "nytdsection": "business",
+        "adx_keywords": "Layoffs and Job Reductions;Computers and the Internet;Company Reports;Nadella, Satya;Microsoft Corp",
+        "column": null,
+        "byline": "By Karen Weise",
+        "type": "Article",
+        "title": "Microsoft to Lay Off 10,000 Workers as It Looks to Trim Costs",
+        "abstract": "The job cuts, which amount to less than 5 percent of the company’s work force, are its largest in roughly eight years.",
+        "des_facet": [
+          "Layoffs and Job Reductions",
+          "Computers and the Internet",
+          "Company Reports"
+        ],
+        "org_facet": [
+          "Microsoft Corp"
+        ],
+        "per_facet": [
+          "Nadella, Satya"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Like other tech companies, Microsoft expanded rapidly during the pandemic.",
+            "copyright": "Jovelle Tamayo for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18MICROSOFT-01-mlbt/18MICROSOFT-01-mlbt-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18MICROSOFT-01-mlbt/18MICROSOFT-01-mlbt-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18MICROSOFT-01-mlbt/18MICROSOFT-01-mlbt-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/dd0e5a0d-f1fb-5643-9357-965635e1370a",
+        "url": "https://www.nytimes.com/2023/01/15/us/california-storm-areas-los-angeles-santa-cruz.html",
+        "id": 100000008728454,
+        "asset_id": 100000008728454,
+        "source": "New York Times",
+        "published_date": "2023-01-15",
+        "updated": "2023-01-17 13:50:29",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Rain;Snow and Snowstorms;Floods;Landslides and Mudslides;California;Monterey (Calif);Santa Cruz County (Calif);Sierra Nevada Region (US);Lake Tahoe (Nev);Los Angeles County (Calif);San Diego County (Calif);San Joaquin Valley (Calif)",
+        "column": null,
+        "byline": "By Carly Olson, Ava Sasani, Luke Vander Ploeg and Julie Brown",
+        "type": "Article",
+        "title": "A Break in California’s Storms Is in Sight. Here Are Regions to Watch.",
+        "abstract": "Already soaked, the state is enduring yet another round of rain and snow.",
+        "des_facet": [
+          "Rain",
+          "Snow and Snowstorms",
+          "Floods",
+          "Landslides and Mudslides"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "California",
+          "Monterey (Calif)",
+          "Santa Cruz County (Calif)",
+          "Sierra Nevada Region (US)",
+          "Lake Tahoe (Nev)",
+          "Los Angeles County (Calif)",
+          "San Diego County (Calif)",
+          "San Joaquin Valley (Calif)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Work crews clearing a landslide on a highway near Grizzly Creek Redwoods State Park in Northern California.",
+            "copyright": "Alexandra Hootnick for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/15NAT-CAL-HOTSPOTS-top-2--tvkh/15NAT-CAL-HOTSPOTS-top-2--tvkh-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/15NAT-CAL-HOTSPOTS-top-2--tvkh/15NAT-CAL-HOTSPOTS-top-2--tvkh-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2023/01/15/multimedia/15NAT-CAL-HOTSPOTS-top-2--tvkh/15NAT-CAL-HOTSPOTS-top-2--tvkh-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      }
+    ]
+  }
