@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ny_times_task/src/features/articles/domain/entities/article.dart';
+import 'package:ny_times_task/src/features/articles/presentation/pages/article_details_page.dart';
 
 class ArticlesListWidget extends StatelessWidget {
   const ArticlesListWidget({super.key, required this.articles});
@@ -25,7 +26,13 @@ class ArticlesListWidget extends StatelessWidget {
                 maxLines: 4,
               ),
               contentPadding: const EdgeInsets.symmetric(horizontal: 8.0),
-              onTap: () {}),
+              onTap: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (_) => ArticleDetailsPage(
+                            article: articles.articlesList[index])));
+              }),
         );
       },
       separatorBuilder: (context, index) => const Divider(
